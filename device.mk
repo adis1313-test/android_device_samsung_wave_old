@@ -132,7 +132,8 @@ PRODUCT_PACKAGES += \
 	SamsungServiceMode \
 	WaveParts \
 	tvouthack \
-	Torch
+	Torch \
+	FmRadio
 
 # These are the hardware-specific features
 PRODUCT_COPY_FILES += \
